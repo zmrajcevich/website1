@@ -6,7 +6,7 @@ import PageWrapper from "./components/PageWrapper";
 function App() {
   return (
     <PageWrapper>
-      Hello world!
+      Hello world! asdfasdfasdfasdfasdfasdf
     </PageWrapper>
   );
 }
